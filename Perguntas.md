@@ -4,3 +4,5 @@
 impacotamento de um grupo de alterações.
 3- O que é repósitorio?
 A pasta omde será armazenados os arquivos do projeto.
+4- O que é merge?
+Juntar duas branchs.
