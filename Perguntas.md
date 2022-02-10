@@ -6,3 +6,5 @@ impacotamento de um grupo de alterações.
 A pasta omde será armazenados os arquivos do projeto.
 4- O que é merge?
 Juntar duas branchs.
+5- O que é pull?
+Emviar alterações do repósitorio remoto para o repósitorio local.
