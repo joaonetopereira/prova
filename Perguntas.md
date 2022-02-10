@@ -8,3 +8,5 @@ A pasta omde será armazenados os arquivos do projeto.
 Juntar duas branchs.
 5- O que é pull?
 Emviar alterações do repósitorio remoto para o repósitorio local.
+6- O que branch?
+ramificação de um repósitorio.
